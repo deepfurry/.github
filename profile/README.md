@@ -1,12 +1,10 @@
 <div align="center">
 
-# DeepFurry
-
-**Open-source tools for AI-native creation.**
+🚀**Open-source tools for AI-native creation.**
 
 Building practical tools, workflows, and infrastructure for creators and developers.
 
-[Website](https://www.deepfurry.com) · [简体中文](./README.zh-CN.md)
+⭐🐺[Website](https://www.deepfurry.com) · [简体中文](./README.zh-CN.md)🐺⭐
 
 </div>
 

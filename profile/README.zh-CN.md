@@ -1,12 +1,10 @@
 <div align="center">
 
-# DeepFurry
-
-**为 AI 原生创作打造开源工具。**
+🚀**为 AI 原生创作打造开源工具。**
 
 为创作者与开发者构建实用的工具、工作流与基础设施。
 
-[官网](https://www.deepfurry.com) · [English](./README.md)
+⭐🐺[官网](https://www.deepfurry.com) · [English](./README.md) 🐺⭐
 
 </div>
 
